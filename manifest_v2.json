@@ -28,24 +28,24 @@
   ],
   "downloads": {
     "xmb10": {
-      "version": "1.0.4",
+      "version": "1.0.5",
       "file_name": "downloads/Xr黑白质感表盘-环10-v104.bin",
-      "versionCode": 65540
+      "versionCode": 65541
     },
     "xmb10nfc": {
-      "version": "1.0.4",
+      "version": "1.0.5",
       "file_name": "downloads/Xr黑白质感表盘-环10-v104.bin",
-      "versionCode": 65540
+      "versionCode": 65541
     },
     "xmb11": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "file_name": "downloads/Xr黑白质感表盘-环11-v101.bin",
-      "versionCode": 65537
+      "versionCode": 65538
     },
     "xmb11nfc": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "file_name": "downloads/Xr黑白质感表盘-环11-v101.bin",
-      "versionCode": 65537
+      "versionCode": 65538
     }
   },
   "ext": {
